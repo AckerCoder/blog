@@ -1,7 +1,6 @@
 ---
-layout: home
-title: Jekyll Atlantic Theme
-heading: <em>Jekyll Tailwind</em> Starter Blog
-description: Atlantic is a beautiful Tailwind CSS theme for Jekyll. It shows best practices for using Tailwind with Jekyll.
-
+layout: Inicio
+title: Un floro y una rosa
+heading: <em>Un floro y una rosa</em>
+description: Una pesimista y romantica visión de la vida de un tercermundista con sueños.
 ---
